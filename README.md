@@ -4,7 +4,7 @@ A collection of projects in the Deep learning and Machine Learning domain
 # Index
 
 1. Backpropagation Algorithm
-2. Implementation of Decision Tree and Naive Bayes algos for multi-class classification
+2. Multi-class Image Classification using Decision Tree (DT) and Naive Bayes (NB) Algorithms
 3. Face Image classification using Convolution Neural Networks
 
 ______________________________________________________________________________________________________________________________
