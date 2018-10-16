@@ -1,4 +1,4 @@
-# Implementation of Decision Tree (DT) and Naive Bayes (NB) Algorithms to classify Multi-class Images 
+# Multi-class Image Classification using Decision Tree (DT) and Naive Bayes (NB) Algorithms  
 
 DataSet used: Yale B and MNIST dataset
 
