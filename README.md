@@ -1,4 +1,4 @@
-# Face Image Classificaiton using Convolution Neural Networks (CNN)
+# Face Image Classificaiton using CNNs
 
 DataSet used: Labeled Faces in the Wild (LFW) dataset
 
